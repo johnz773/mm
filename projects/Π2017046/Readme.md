@@ -9,8 +9,9 @@ Link: https://asciinema.org/a/275890
 
 Εκτός απ' τις εντολές που χρησιμοποίησα στο βίντεο, υπάρχουν και αυτές που χρησιμοποίησα για την εγκατάσταση των εφαρμογών:
 
-sudo apt-get install youtube-dl
-sudo apt-get install mpv 
+-sudo apt-get install youtube-dl
+
+-sudo apt-get install mpv 
 
 για την κάθε εφαρμογή αντιστοίχως.
 
